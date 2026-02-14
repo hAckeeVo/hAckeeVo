@@ -46,4 +46,5 @@ Based in **Semey, Kazakhstan**, I specialize in building scalable backend system
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omargaly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+[![ChocoDevDay](http://rahmet.object.pscloud.io/static/upload/images/chocodevday/git-badge-2.png)](https://github.com/chocofamilyme)
 [![ChocoDevDay](http://rahmet.object.pscloud.io/static/upload/images/chocodevday/git-badge-3.png)](https://github.com/chocofamilyme)
