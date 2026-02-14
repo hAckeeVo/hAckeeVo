@@ -43,7 +43,7 @@ Based in **Semey, Kazakhstan**, I specialize in building scalable backend system
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omargaly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackeevo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 [![ChocoDevDay](http://rahmet.object.pscloud.io/static/upload/images/chocodevday/git-badge-3.png)](https://github.com/chocofamilyme)
